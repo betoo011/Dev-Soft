@@ -1,0 +1,5 @@
+@import url('https://fonts.cdnfonts.com/css/clear-sans?styles=20834');
+@import url('https://fonts.googleapis.com/css2?family=Darker+Grotesque:wght@300&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

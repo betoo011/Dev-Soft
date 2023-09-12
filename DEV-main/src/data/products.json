@@ -1,0 +1,205 @@
+{"products":[
+    {
+        "id": 1,
+        "name": "Camiseta x",
+        "category": "camisetas",
+        "img": "/src/assets/imagenes/image5.png",
+        "price": 2500,
+        "gender": "Hombre"
+
+    },
+
+    
+    {
+        "id": 2,
+        "name": "Pantalones y",
+        "category": "pantalones",
+        "img": "/src/assets/imagenes/image6.png",
+        "price": 1500,
+        "gender": "Hombre"
+
+    },
+
+    {
+        "id": 3,
+        "name": "Producto 3",
+        "category": "camisetas",
+        "img": "/src/assets/imagenes/image6.png",
+        "price": 2500,
+        "gender": "Mujer" 
+
+    },
+
+    {
+        "id": 4,
+        "name": "Producto 4",
+        "category": "camisetas",
+        "img": "/src/assets/imagenes/image7.png",
+        "price": 1500,
+        "gender": "Hombre" 
+
+    },
+
+    {
+        "id": 5,
+        "name": "Producto 5",
+        "category": "camisetas",
+        "img": "https://us.pand.co/cdn/shop/products/Espresso5_720x.png?v=1681472348",
+        "price": 2000,
+        "gender": "Hombre" 
+
+    },
+
+    {
+        "id": 6,
+        "name": "Producto 6",
+        "category": "camisetas",
+        "img": "",
+        "price": 2000,
+        "gender": "Hombre" 
+
+    },
+
+    {
+        "id": 7,
+        "name": "Producto 7",
+        "category": "camisetas",
+        "img": "",
+        "price": 2000,
+        "gender": "Hombre" 
+
+    },
+
+    {
+        "id": 8,
+        "name": "Producto 8",
+        "category": "camisetas",
+        "img": "",
+        "price": 1500,
+        "gender": "" 
+
+    },
+
+    {
+        "id": 9,
+        "name": "Shorts 9",
+        "category": "shorts",
+        "img": "",
+        "price": 1500,
+        "gender": "" 
+
+    },
+
+    {
+        "id": 10,
+        "name": "Producto 10",
+        "category": "shorts",
+        "img": "",
+        "price": 1500,
+        "gender": "" 
+
+    },
+
+    {
+        "id": 11,
+        "name": "Producto 11",
+        "category": "camisetas",
+        "img": "",
+        "price": 1500,
+        "gender": "" 
+
+    },
+
+    {
+        "id": 12,
+        "name": "Producto 12",
+        "category": "shorts",
+        "img": "",
+        "price": 1500,
+        "gender": "" 
+
+    },
+
+    {
+        "id": 13,
+        "name": "Producto 13",
+        "category": "shorts",
+        "img": "",
+        "price": 1500,
+        "gender": "" 
+
+    },
+
+    {
+        "id": 14,
+        "name": "Producto 14",
+        "category": "shorts",
+        "img": "",
+        "price": 1500,
+        "gender": "" 
+
+    },
+
+    {
+        "id": 15,
+        "name": "Producto 15",
+        "category": "camisetas",
+        "img": "",
+        "price": 1500,
+        "gender": "" 
+
+    },
+
+    {
+        "id": 16,
+        "name": "Producto 16",
+        "category": "camisetas",
+        "img": "",
+        "price": 1500,
+        "gender": "" 
+
+    },
+
+    {
+        "id": 17,
+        "name": "Producto 17",
+        "category": "camisetas",
+        "img": "",
+        "price": 1500,
+        "gender": "" 
+
+    },
+
+    {
+        "id": 18,
+        "name": "Producto 18",
+        "category": "camisetas",
+        "img": "",
+        "price": 1500,
+        "gender": "" 
+
+    },
+
+    {
+        "id": 19,
+        "name": "Producto 19",
+        "category": "camisetas",
+        "img": "",
+        "price": 1500,
+        "gender": "" 
+
+    },
+
+    {
+        "id": 20,
+        "name": "Producto 20",
+        "category": "pantalones",
+        "img": "",
+        "price": 1500,
+        "gender": "" 
+
+    }
+
+
+]
+}

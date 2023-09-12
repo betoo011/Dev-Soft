@@ -1,0 +1,46 @@
+
+label span {
+    background-color: transparent;
+    height: 50px;
+    width: 50px;
+    font-size: 14px;
+    border: 1px solid #181818;
+    color: #181818;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-weight: 700;
+  }
+  
+   label input {
+    display: none;
+  }
+  
+  label {
+    cursor: pointer;
+  }
+  
+  span {
+    -webkit-tap-highlight-color: transparent;
+  }
+  
+  .product-option__values {
+    display: flex;
+    flex-wrap: wrap;  
+    gap: 1rem;
+  
+  }
+  label input:checked + span {
+    background-color: black; /* Cambia esto al color deseado */
+    color: white; /* Cambia esto al color deseado */
+    font-weight: 600; /* Cambia esto si deseas un peso de fuente diferente */
+  }
+  
+  radio:checked + .radio-label {
+    background-color: #181818;
+    color: #f4f3f3;
+    font-weight: 600;
+  }
+    
+    
